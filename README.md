@@ -1,1 +1,1 @@
-codes in learning phase will be in this folder
+codes in learning phase will be in this repository.
